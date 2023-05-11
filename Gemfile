@@ -71,4 +71,8 @@ group :test do
   gem "webdrivers"
 end
 
+#dotenv-rails
 gem 'dotenv-rails'
+
+#bootstrap
+gem 'bootstrap', '~> 5.2.3'
